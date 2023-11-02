@@ -18,8 +18,19 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+#Program to swap two values.
+#Developed by: SURYA R
+#RegisterNumber:23013019
+a=float(input())
+b=float(input())
+temp=a
+a=b
+b=temp
+print("Swapped values are:",a,b)
 
 
+## OUTPUT
+![image](https://github.com/SuryaR03/Swapping-two-values/assets/147140237/bb1ac698-f9b9-4a0a-a14d-66b39bdbd6a4)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
